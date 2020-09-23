@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2 class="mb-5">2 Stroke Fuel Mixing Calculator</h2>
+    <h2 class="mb-5">Go Kart Fuel Mixture Calculator</h2>
     
     <b-container fluid="lg" class="p-3">
         <div class="d-flex flex-column align-items-start">
