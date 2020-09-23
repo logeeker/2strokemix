@@ -60,7 +60,7 @@ export default {
       multiplier:1000,
       isPercentage:true,
       percent:'',
-      ratio:0,
+      ratio:'',
       dialog:false
     }
   },
